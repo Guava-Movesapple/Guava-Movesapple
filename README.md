@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Guava-Movesapple 
-- 👀 I’m interested in making game Development
+- 👀 I’m interested in making games
 - 🌱 I’m currently learning Unity, Blender(3D modeling)
